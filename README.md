@@ -10,11 +10,11 @@ Java Thread, JFrame, MVC 패턴을 적용한 SpaceInvader 게임 (토이 프로�
 
 ## 프로젝트 이미지
 **시작 화면**
-[![Alt text](/D/img/spiStartView.png)](https://github.com/cordingkid/SpaceInvader/issues/2#issue-2238898641)
+![spiStartView](https://github.com/cordingkid/SpaceInvader/assets/83069542/5a92f7d3-e5d2-44e7-81ad-4a6c0fcf1d1a)
 
 **게임 화면**
-[![Alt text](/D/img/spiIngView.png)](https://github.com/cordingkid/SpaceInvader/issues/1#issue-2238898364)
+![spiIngView](https://github.com/cordingkid/SpaceInvader/assets/83069542/2a6f4a4f-253c-46fd-99b1-2243fb138214)
 
 **종료 화면**
-[![Alt text](/D/img/spiEndView.png)](https://github.com/cordingkid/SpaceInvader/issues/3#issue-2238898810)
+![spiEndView](https://github.com/cordingkid/SpaceInvader/assets/83069542/288f1e25-8eca-428e-a793-639b8d38c564)
 
